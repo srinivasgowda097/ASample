@@ -1,1 +1,1 @@
-{"web":{"Runtime Parameters for this Tier":{"s3build":"builddtest.zip1234","deploybuild":"test123"}}}
+{"web":{"runtime":{"s3build":"builddtest.zip1234","deploybuild":"test123"}}}
