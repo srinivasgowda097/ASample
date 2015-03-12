@@ -1,1 +1,1 @@
-{"web":{"runtime":{"s3build":"builddtest.zip1234","deploybuild":"test123"}}}
+{"AppWeb":{"Runtime Parameters for this Tier":{"stage-build-id":"builddtest.zip1234","stage-ui-build-id":"test123"}}}
