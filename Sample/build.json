@@ -1,1 +1,1 @@
-{"AppWeb":{"Runtime Parameters for this Tier":{"stage-build-id":"builddtest.zip123454","stage-ui-build-id":"test1234"}}}
+{"web":{"Runtime Parameters for this Tier":{"deploybuild":"builddtest.zip123454","stage-ui-build-id":"test1234"}}}
